@@ -3,3 +3,5 @@ class ThisFile{
         
     }
 }
+
+//eirik var her
